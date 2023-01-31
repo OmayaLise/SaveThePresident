@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{6162E07B-4E78-A7A7-DC00-25AC891B58E1}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SaveThePresident",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"AIModule",
+				"Engine"
+			]
+		}
+	]
+}
